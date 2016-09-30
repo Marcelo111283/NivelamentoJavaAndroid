@@ -1,0 +1,3 @@
+[submodule "JavaOlaMundo"]
+	path = JavaOlaMundo
+	url = https://github.com/androidaccelerate/JavaOlaMundo.git
