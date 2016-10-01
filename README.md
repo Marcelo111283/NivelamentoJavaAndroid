@@ -12,6 +12,20 @@ Pré-requisitos
 - Intellij IDEA
 
 
+Exercícios (Projetos)
+--------------
+- Variáveis primitivas e Controle de fluxo
+- Introdução a Orientação a Objetos
+- Introdução a Arrays
+- Modificadores de acesso e atributos de classe
+- Herança e polimorfismo
+- Classes Abstratas
+- Interfaces
+- Estrutura de dados
+- Exceções e controle de erros
+- Organizando suas classes
+
+
 Começando
 ---------------
 Faça o download ou clone do projeto e importe no Intellij IDEA como um projeto Java.
