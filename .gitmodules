@@ -10,3 +10,24 @@
 [submodule "JavaIntroducaoArrays"]
 	path = JavaIntroducaoArrays
 	url = https://github.com/androidaccelerate/JavaIntroducaoArrays.git
+[submodule "JavaModificadoresAcessoAtributosClasse"]
+	path = JavaModificadoresAcessoAtributosClasse
+	url = https://github.com/androidaccelerate/JavaModificadoresAcessoAtributosClasse.git
+[submodule "JavaHeran-aPolimorfismo"]
+	path = JavaHeran-aPolimorfismo
+	url = https://github.com/androidaccelerate/JavaHeran-aPolimorfismo.git
+[submodule "JavaClassesAbstratas"]
+	path = JavaClassesAbstratas
+	url = https://github.com/androidaccelerate/JavaClassesAbstratas.git
+[submodule "JavaInterfaces"]
+	path = JavaInterfaces
+	url = https://github.com/androidaccelerate/JavaInterfaces.git
+[submodule "JavaEstruturaDados"]
+	path = JavaEstruturaDados
+	url = https://github.com/androidaccelerate/JavaEstruturaDados.git
+[submodule "JavaExcecoesControleErros"]
+	path = JavaExcecoesControleErros
+	url = https://github.com/androidaccelerate/JavaExcecoesControleErros.git
+[submodule "JavaPacotes"]
+	path = JavaPacotes
+	url = https://github.com/androidaccelerate/JavaPacotes.git
